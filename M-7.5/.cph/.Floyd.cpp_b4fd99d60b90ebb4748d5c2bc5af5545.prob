@@ -1,0 +1,1 @@
+{"name":"Local: Floyd","url":"d:\\Phitron\\Algorithms\\M-7.5\\Floyd.cpp","tests":[{"id":1726156321871,"input":"4\n0 5 9 -1\n-1 0 2 8\n-1 -1 0 7\n4 -1 -1 0","output":"16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Algorithms\\M-7.5\\Floyd.cpp","group":"local","local":true}
