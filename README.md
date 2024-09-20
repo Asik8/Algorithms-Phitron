@@ -5,3 +5,5 @@
 # M-7.5 # Contest Link:- https://docs.google.com/document/d/12kShR8b8pA6dDaJVw5-YU6u69Qymtunx/edit
 
 # M-9:- https://docs.google.com/document/d/1vImBOWyuUFm0b1V5kAXGGF2xACb9Q_Zv/edit
+
+# M-10.5:- https://docs.google.com/document/d/1vImBOWyuUFm0b1V5kAXGGF2xACb9Q_Zv/edit
