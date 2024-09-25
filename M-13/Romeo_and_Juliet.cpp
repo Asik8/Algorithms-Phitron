@@ -43,12 +43,12 @@ int main() {
         Edges[a].pb(b);
         Edges[b].pb(a);
     }
-    int x,y,k;
-    cin>>x>>y>>k;
+    int x,d,k;
+    cin>>x>>d>>k;
     memset(vis,false,sizeof(vis));
     memset(dis,-1,sizeof(dis));
     bfs(x);
-    if(dis[y] != -1 && dis[y]<=k*2) py
+    if(dis[d] != -1 && dis[d]<=k*2) py
     else pn
     return 0;
 }
