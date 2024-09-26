@@ -1,8 +1,6 @@
-//{ Driver Code Starts
 #include<bits/stdc++.h>
 using namespace std;
 
-// } Driver Code Ends
 class Solution
 {
     public:
@@ -36,9 +34,7 @@ class Solution
                 par[pa] = pb;
                 group_size[pb]+=group_size[pa];
             }
-    }
-    //Function to detect cycle using DSU in an undirected graph.
-	int detectCycle(int V, vector<int>adj[])
+    }	int detectCycle(int V, vector<int>adj[])
 	{
 	    DSU_initialization(V);
 	    for(int i=0;i<V;i++)
@@ -58,7 +54,6 @@ class Solution
 	}
 };
 
-//{ Driver Code Starts.
 int main(){
 	int tc;
 	cin >> tc;
@@ -77,4 +72,3 @@ int main(){
 		cout << ans <<"\n";	}
 	return 0;
 }
-// } Driver Code Ends
