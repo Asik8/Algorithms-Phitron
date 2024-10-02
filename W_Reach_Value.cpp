@@ -6,7 +6,7 @@ using namespace std;
 #define pn cout<<"NO\n";
 ll n;
 
-bool check(int a)
+bool check(ll a)
 {
     if(a == n) return true;
     else if(a>n) return false;
